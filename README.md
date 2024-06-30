@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HyperDS
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Unity/Godot/Python/Javascript/HTML/NJS(counts as JS)
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me https://www.youtube.com/channel/UCw3TEK2g8r6nE2rIoQOfnHg
+- 📫 How to reach me https://www.youtube.com/channel/UCw3TEK2g8r6nE2rIoQOfnHg and hyperds on Discord !!!

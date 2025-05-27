@@ -1,25 +1,51 @@
-🔥🔥🔥🔥 **Hello! I'm Hyper!**
+<h1 align="center">Hi, I'm Rayyan Ridwan 👋</h1>
 
-## About Me
-- **Interests:** Artificial Intelligence, Machine Learning, Ethical Hacking, Game Development, etc. etc.
-- **Projects:** AI-powered applications, data analysis tools, and real-time simulations plus even more+ (in website!)
-- **Learning:** I am continuously learning advanced algorithms, mathematical concepts, and exploring new ways to make revolutionary advancements in technology!!
-
-## Skills
-- **Primary Programming Language:** Python
-- **Secondary Programming Languages:** Javascript, HTML, CSS, Java, C#, GDscript, Lua.. and looking forward to even more!
-- **Wanting to learn:** Robotics, but too expensive 💵💵
-- **Core Areas:** Data Science, Computer Vision, AI, Ethical Hacking, Web/App Development.
-**Such as:**
-  - **Data Analysis** – From CSV data management to stock predictions using ML.
-  - **Computer Vision** – Projects in facial recognition, OCR, and hand tracking.
-  - **AI** – Including an advanced chess AI and a custom chatbot.
-  - **Ethical Hacking** – Very basic and still learning! But have learnt hashing,
-  - **Algorithms** – Various search and pathfinding algorithms.
-  
-
-## Connect
-- **Email**: rayyan.ridw@gmail.com
+<p align="center">
+  <em>AI/ML Developer • Systems Thinker • Builder of Intelligent Applications</em>
+</p>
 
 ---
 
+### 🧠 About Me
+
+I'm a developer with a strong focus on interpretable AI, systems programming, and applying machine learning in high-impact, real-world scenarios. My work blends theoretical depth with practical implementation, often at the intersection of computer vision, algorithm design, and real-time systems.
+
+---
+
+### 🚀 Areas of Interest
+- 🤖 Artificial Intelligence & Machine Learning  
+- 🧭 Computer Vision & Data Science  
+- ⚙️ Systems Programming & Optimization  
+- 🔐 Cybersecurity & Ethical Hacking  
+- 🤹 Game Dev, Real-Time Simulations, Robotics
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+Python • JavaScript • Java • C# • HTML/CSS • GDScript • Lua  
+
+**Specializations:**  
+- Machine Learning & Algorithms  
+- Computer Vision (OCR, Detection, Tracking)  
+- Data Analysis & Visualization  
+- Web Interfaces & UI Logic  
+- Cybersecurity Fundamentals  
+
+---
+
+### 📫 Connect With Me
+
+<a href="mailto:rayyan.ridw@gmail.com">📧 Email</a> • 
+<a href="https://github.com/rayyan-ridwan">💻 GitHub</a> • 
+<a href="https://www.linkedin.com/in/rayyanridwan">🔗 LinkedIn</a> • 
+<a href="https://www.medium.com/@rayyanridwan">📝 Medium</a> • 
+<a href="https://www.youtube.com/@rayyan-ridw">📺 YouTube</a> • 
+<a href="https://www.instagram.com/rayyan_ridwan_">📷 Instagram</a>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayyan-ridwan&show_icons=true&theme=default" alt="Rayyan's GitHub stats" />
+</p>

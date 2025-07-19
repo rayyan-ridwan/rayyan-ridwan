@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Rayyan Ridwan 👋</h1>
-
-<p align="center">
-  <em>AI/ML Developer • Systems Thinker • Builder of Intelligent Applications</em>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&pause=1000&color=00C6F7&width=435&lines=Rayyan+Ridwan+%7C+AI%2FML+Engineer)](https://git.io/typing-svg)
 
 ---
 

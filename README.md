@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&pause=1000&color=00C6F7&width=600&lines=Rayyan+Ridwan+%7C+AI%2FML+Engineer;Building+intelligence+into+reality...)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rayyan+Ridwan+%7C+AI%2FML+Engineer;Building+intelligence+into+reality...)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -34,13 +38,22 @@ Python • JavaScript • Java • C# • HTML/CSS • GDScript • Lua
 
 ### 📫 Connect With Me
 
-<a href="mailto:rayyan.ridw@gmail.com">📧 Email</a> • 
-<a href="https://github.com/rayyan-ridwan">💻 GitHub</a> • 
-<a href="https://www.linkedin.com/in/rayyanridwan">🔗 LinkedIn</a> • 
-<a href="https://www.medium.com/@rayyanridwan">📝 Medium</a> • 
-<a href="https://www.youtube.com/@rayyan-ridw">📺 YouTube</a> • 
-<a href="https://www.instagram.com/rayyan_ridwan_">📷 Instagram</a>
+<p align="center">
+  <a href="mailto:rayyan.ridw@gmail.com">📧 Email</a> • 
+  <a href="https://github.com/rayyan-ridwan">💻 GitHub</a> • 
+  <a href="https://www.linkedin.com/in/rayyanridwan">🔗 LinkedIn</a> • 
+  <a href="https://www.medium.com/@rayyanridwan">📝 Medium</a> • 
+  <a href="https://www.youtube.com/@rayyan-ridw">📺 YouTube</a> • 
+  <a href="https://www.instagram.com/rayyan_ridwan_">📷 Instagram</a>
+</p>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/rayyan-ridwan/count.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayyan-ridwan&show_icons=true&theme=graywhite&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rayyan-ridwan&theme=graywhite&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rayyan-ridwan&theme=github-compact&hide_border=true" />
+</p>

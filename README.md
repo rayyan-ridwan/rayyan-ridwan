@@ -1,19 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&pause=1000&color=00C6F7&width=435&lines=Rayyan+Ridwan+%7C+AI%2FML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&pause=1000&color=00C6F7&width=600&lines=Rayyan+Ridwan+%7C+AI%2FML+Engineer;Building+intelligence+into+reality...)](https://git.io/typing-svg)
 
 ---
 
 ### 🧠 About Me
 
-I'm a developer with a strong focus on interpretable AI, systems programming, and applying machine learning in high-impact, real-world scenarios. My work blends theoretical depth with practical implementation, often at the intersection of computer vision, algorithm design, and real-time systems.
+I'm a developer obsessed with interpretable AI, real-time systems, and the bleeding edge of machine learning. My work blends theory and performance — from vision pipelines on drones to transparent CNNs for medical AI, everything I touch aims for **clarity**, **control**, and **impact**.
 
 ---
 
 ### 🚀 Areas of Interest
+
 - 🤖 Artificial Intelligence & Machine Learning  
 - 🧭 Computer Vision & Data Science  
 - ⚙️ Systems Programming & Optimization  
 - 🔐 Cybersecurity & Ethical Hacking  
-- 🤹 Game Dev, Real-Time Simulations, Robotics
+- 🎮 Game Dev, Real-Time Simulations, Robotics
 
 ---
 
@@ -42,6 +43,4 @@ Python • JavaScript • Java • C# • HTML/CSS • GDScript • Lua
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayyan-ridwan&show_icons=true&theme=default" alt="Rayyan's GitHub stats" />
-</p>
+![Visitor Count](https://profile-counter.glitch.me/rayyan-ridwan/count.svg)

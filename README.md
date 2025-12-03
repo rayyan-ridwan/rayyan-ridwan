@@ -1,50 +1,51 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Rayyan+Ridwan+%7C+AI%2FML+Engineer;Building+intelligence+into+reality...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Gothic+Expanded+One\&pause=1000\&color=FFFFFF\&center=true\&vCenter=true\&width=600\&lines=Rayyan+Ridwan+%7C+AI%2FML+Engineer;Engineering+Intelligence+with+Rigor+and+Purpose)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🧠 About Me
+## About Me
 
-I'm a developer obsessed with interpretable AI, real-time systems, and the bleeding edge of machine learning. My work blends theory and performance — from vision pipelines on drones to transparent CNNs for medical AI, everything I touch aims for **clarity**, **control**, and **impact**.
-
----
-
-### 🚀 Areas of Interest
-
-- 🤖 Artificial Intelligence & Machine Learning  
-- 🧭 Computer Vision & Data Science  
-- ⚙️ Systems Programming & Optimization  
-- 🔐 Cybersecurity & Ethical Hacking  
-- 🎮 Game Dev, Real-Time Simulations, Robotics
+I am an AI/ML engineer focused on interpretable machine learning, real-time computer vision systems, and high-performance software design. My work spans from transparent medical AI models to flight-ready perception pipelines and research-driven architectures grounded in cognitive theory. I prioritize clarity, control, and verifiable impact in every system I build.
 
 ---
 
-### 🛠️ Tech Stack
+## Core Interests
 
-**Languages:**  
-Python • JavaScript • Java • C# • HTML/CSS • GDScript • Lua  
-
-**Specializations:**  
-- Machine Learning & Algorithms  
-- Computer Vision (OCR, Detection, Tracking)  
-- Data Analysis & Visualization  
-- Web Interfaces & UI Logic  
-- Cybersecurity Fundamentals  
+* Artificial Intelligence and Machine Learning
+* Computer Vision and Data-Centric Modeling
+* Systems Programming and Performance Engineering
+* Security-Oriented Computing
+* Real-Time Simulation, Game Engines, Robotics
 
 ---
 
-### 📫 Connect With Me
+## Technical Stack
+
+**Languages**
+Python • JavaScript • Java • C# • HTML/CSS • GDScript • Lua
+
+**Domains and Tooling**
+
+* Machine Learning and Classical Algorithms
+* Computer Vision (detection, tracking, OCR)
+* Data Analysis, Visualization, and Signal Processing
+* Web Interfaces and UI Logic
+* Security Concepts and Defensive Techniques
+
+---
+
+## Connect
 
 <p align="center">
-  <a href="mailto:rayyan.ridw@gmail.com">📧 Email</a> • 
-  <a href="https://github.com/rayyan-ridwan">💻 GitHub</a> • 
-  <a href="https://www.linkedin.com/in/rayyanridwan">🔗 LinkedIn</a> • 
-  <a href="https://www.medium.com/@rayyanridwan">📝 Medium</a> • 
-  <a href="https://www.youtube.com/@rayyan-ridw">📺 YouTube</a> • 
-  <a href="https://www.instagram.com/rayyan_ridwan_">📷 Instagram</a>
+  <a href="mailto:rayyan.ridw@gmail.com">Email</a> • 
+  <a href="https://github.com/rayyan-ridwan">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/rayyanridwan">LinkedIn</a> • 
+  <a href="https://www.medium.com/@rayyanridwan">Medium</a> • 
+  <a href="https://www.youtube.com/@rayyan-ridw">YouTube</a> • 
+  <a href="https://www.instagram.com/rayyan_ridwan_">Instagram</a>
 </p>
 
 ---
@@ -56,4 +57,3 @@ Python • JavaScript • Java • C# • HTML/CSS • GDScript • Lua
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rayyan-ridwan&theme=github-compact&hide_border=true" />
-</p>
